@@ -1,0 +1,74 @@
+.site-name{
+  margin: auto;
+}
+h1{
+  color: #7B241C
+  font-weight: bolder;
+  font-weight: 900;
+}
+.site-name{
+  text-align: right;
+}
+
+}
+a{
+  align-content: ="center"
+  text-decoration:none;
+  color:#000
+}
+a:hover{
+  color:blue;
+}
+.card{
+  align-items: center;
+}
+body{
+  background-image: url('../imagenes/Foto 2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color:#CD5C5C;
+  color:
+ font-family: Tahoma, Arial, Helvetica;
+ font-weight: 400;
+}
+.box-1{
+  width:80;
+  border: 5px;
+  margin: 25%;
+
+}
+.box-2{
+  font-weight: bold;
+  margin: 25%;
+  border: 3px  #333;
+
+}
+.waves-effect: {
+  background-color: #7B241C
+}
+.card-medium {
+  width: 400px
+
+}
+
+.iris{
+  background-image: src("../imagenes/Foto 2");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.btn-group{
+  float:left;
+  width:33.3%;
+  box-sizing:border-box;
+  position:absolute;
+
+}
+
+.footer{
+  background-color: white;
+}
+
+.row .col{
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
